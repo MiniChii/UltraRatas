@@ -21,5 +21,5 @@ public class PointType {
     private long id;
 
     @Column
-    private String nombre;
+    private String name;
 }

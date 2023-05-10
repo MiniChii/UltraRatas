@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <h1>{Text.ultraRatas}</h1>
       </header>
-      <body className="App-body">
+      <div className="App-body">
         <PublicationsList />
-      </body>
+      </div>
     </div>
   );
 }
